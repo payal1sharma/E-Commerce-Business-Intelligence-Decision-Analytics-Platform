@@ -81,8 +81,7 @@ ecommerce-business-intelligence/
 ├── README.md
 ├── ecommerce_analysis.sql
 ├── E-commerce_Business_Summary.xlsx
-├── Ecommerce_Business_Intelligence.pbix
-├── ecommerce_overview_dashboard.png
+├── Ecommerce_overview_dashboard.png
 └── business_insights_dashboard.png
 ```
 
