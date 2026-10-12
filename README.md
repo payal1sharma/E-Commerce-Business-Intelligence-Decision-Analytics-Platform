@@ -31,7 +31,7 @@ The project uses the [Brazilian E-Commerce Public Dataset on Kaggle](https://www
 
 ### 1. E-Commerce Overview Dashboard
 
-![E-Commerce Overview Dashboard](ecommerce_overview_dashboard.png)
+![E-Commerce Overview Dashboard](Ecommerce_overview_dashboard.png)
 
 This dashboard includes:
 - Total orders and unique customers
